@@ -2,7 +2,7 @@
 
 This is a project for CPSC 254-01 at California State University, Fullerton. 
 
-Link Here: https://ericchu1329.github.io/Geo-Run-Host/
+Play the game here: https://ericchu1329.github.io/Geo-Run-Host/
 
 <h1>Summary</h1>
 
