@@ -6,7 +6,7 @@ Play the game here: https://ericchu1329.github.io/Geo-Run-Host/
 
 <h1>Summary</h1>
 
-This repository contains the build for Geo Run. This repo will also host the site for Geo Run.
+This repository contains the webgl build for Geo Run. This repo will also host the site for Geo Run.
 
 <h1>Developers</h1>
 
